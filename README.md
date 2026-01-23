@@ -1,15 +1,19 @@
-<h1 align="center">👋 Hi, I'm Saqib Aziz</h1>
-<h3 align="center">Frontend Developer | Learner at SMIT</h3>
+<h1 align="center">👋 Hi, I'm Saqib Aziz!</h1>
+<h3 align="center">Frontend Developer • MERN Stack Learner <b>SMIT</b></h3>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+modern+web+experiences;Learning+MERN+stack+right+now;Turning+ideas+into+pixel-perfect+UIs;Code+%2B+Creativity+%3D+Passion" alt="Typing SVG" />
+</div>
 
 ---
 
 ### 🚀 About Me
-
-- 🧠 Currently learning **MERN Stack Development** at **[SMIT](https://saylaniwelfare.com/)**
-- 🌱 Also exploring **Backend**
-- 💻 Focused on frontend development and UI/UX best practices
-- 🎯 Passionate about building responsive, real-world web applications
-- 🎬 Part-time video editor with creative editing skills
+- 💫 Visit my Portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-saqibaziz.portfolio-0ea5e9?style=flat&logo=vercel&logoColor=white)](https://saqibaziz-portfolio.vercel.app/)
+- 🧠 Currently mastering **MERN Stack** at **Saylani Mass IT Training (SMIT)**
+- 🌱 Deepening knowledge in **Backend Development**
+- 🎨 Frontend-focused developer with strong eye for **UI/UX** & responsive design
+- 🎬 Part-time **video editor**
+- 🎯 Goal: Build **useful, beautiful, real-world** web applications
 
 ---
 
@@ -24,12 +28,8 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=plastic&logo=bootstrap&logoColor=white)
 ![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFA000?style=plastic&logo=Firebase&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=plastic&logo=mui&logoColor=white)
 ![Shadcn UI](https://img.shields.io/badge/shadcn%20ui-000000?style=plastic&logo=shadcnui&logoColor=white)
 ![Magic UI](https://img.shields.io/badge/Magic%20UI-7C3AED?style=plastic&logo=magicui&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-0AE348?style=plastic&logo=greensock&logoColor=white)
-![Skipper UI](https://img.shields.io/badge/Skipper%20UI-4A90E2?style=plastic&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=plastic&logo=git&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white)
@@ -66,13 +66,20 @@
 
 ---
 
-### 💡 Quote
+### 💭 My Coding Philosophy
 
-> *"Code every day — not to be perfect, but to be better than yesterday."*  
-> — **Saqib Aziz**
+> “Code every day — not to be perfect,  
+> but to be better than yesterday.”  
+> — Saqib Aziz
+
+<br/>
 
 ---
 
-<p align="center">
+<div align="center">
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=saqibaziz007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+  <br/>
+  <sub>Thanks for stopping by 💙</sub>
+</div>
+
