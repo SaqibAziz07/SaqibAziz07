@@ -73,18 +73,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SaqibAziz07&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SaqibAziz07&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=saqibaziz07&theme=github&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaqibAziz07&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+  ![](https://github-readme-stats.vercel.app/api?username=SaqibAziz07&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=SaqibAziz07&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaqibAziz07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
