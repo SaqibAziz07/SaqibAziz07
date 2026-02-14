@@ -71,19 +71,20 @@
 
 ---
 
-## 📊 GitHub Stats
 
-  ![](https://github-readme-stats.vercel.app/api?username=SaqibAziz07&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-  ![](https://nirzak-streak-stats.vercel.app/?user=SaqibAziz07&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaqibAziz07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+  <div align="center">
+    <span>
+      <a href="(https://github.com/SaqibAziz07/)">
+        <img width="330" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SaqibAziz07&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
+      </a>
+    </span>
+    <span>
+      <a href="(https://github.com/SaqibAziz07/)">
+        <img width="430" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SaqibAziz07&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats" />
+      </a>
+    </span>
+  </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaqibAziz07&theme=flat&no-frame=true&margin-w=5&row=2&column=4" alt="GitHub Trophies" />
-</p>
 
 ---
 
