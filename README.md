@@ -75,12 +75,12 @@
   <div align="center">
     <span>
       <a href="(https://github.com/SaqibAziz07/)">
-        <img width="330" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SaqibAziz07&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
+        <img width="330" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=saqibaziz07&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
       </a>
     </span>
     <span>
       <a href="(https://github.com/SaqibAziz07/)">
-        <img width="430" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SaqibAziz07&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats" />
+        <img width="430" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=saqibaziz07&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats" />
       </a>
     </span>
   </div>
